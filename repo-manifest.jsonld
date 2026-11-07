@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/beeware/podium/commit/d41d4d9ea4f59a6e274fb2b0977b73b1cc06968b",
       "git:hexsha": "d41d4d9ea4f59a6e274fb2b0977b73b1cc06968b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/beeware/podium/commit/5952ded262b64deccbffcf1799b60843f9f8ee20",
