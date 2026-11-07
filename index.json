@@ -1,0 +1,11 @@
+{
+  "org": "beeware",
+  "repo": "podium",
+  "versions": [
+    {
+      "commit": "d41d4d9ea4f59a6e274fb2b0977b73b1cc06968b",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:11:34.363603+00:00"
+    }
+  ]
+}
